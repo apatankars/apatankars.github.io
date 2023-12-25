@@ -195,6 +195,10 @@ section {
     text-align: center;
 }
 
+.prof-pic {
+    border-radius: 50%;
+}
+
 #socials-container {
     display: flex;
     justify-content: center;
